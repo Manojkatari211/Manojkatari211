@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Manoj+Katari+%F0%9F%91%8B;Full+Stack+AI+Engineer+%F0%9F%9A%80;4+Years+of+Building+Smart+Products;Turning+Ideas+into+Intelligent+Solutions)](https://git.io/typing-svg)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manoj%20Katari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20AI%20Engineer%20%7C%204%20Years%20Experience&descAlignY=52&descSize=18" width="100%"/>
+
 </div>
 
 ---
@@ -92,9 +94,9 @@ I'm a **Full Stack AI Engineer** with **4 years of experience** building modern,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manojkatari211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manoj's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Manojkatari211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Manoj's GitHub Stats" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manojkatari211&theme=tokyonight&hide_border=true" alt="Manoj's Streak" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Manojkatari211&theme=tokyonight&hide_border=true" alt="Manoj's Streak" width="48%" />
 
 </div>
 
@@ -104,13 +106,19 @@ I'm a **Full Stack AI Engineer** with **4 years of experience** building modern,
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manojkatari211&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Manojkatari211&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Manojkatari211&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -125,12 +133,14 @@ I'm always open to **collaborating on exciting projects**, discussing **AI innov
 Feel free to reach out through any of the platforms below:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Katari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-katari/)
-
+[![YouTube](https://img.shields.io/badge/YouTube-@Manojkatari211-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Manojkatari211)
+[![Medium](https://img.shields.io/badge/Medium-@Manojkatari211-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Manojkatari211)
+[![Instagram](https://img.shields.io/badge/Instagram-@Manojkatari211-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Manojkatari211)
 
 ---
 
 *"Code is poetry — write it with purpose, build it with passion, and deploy it with confidence."* 🚀
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
