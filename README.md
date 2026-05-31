@@ -18,7 +18,7 @@ I'm a **Full Stack AI Engineer** with **4 years of experience** building modern,
 
 - 🚀 **4 years** of hands-on engineering across frontend, backend, cloud, and AI
 - 🤖 Passionate about **Generative AI**, **LLMs**, and **Prompt Engineering**
-- 📚 I share knowledge through **YouTube**, **Medium**, and **Instagram** — coding tutorials, AI breakdowns, and dev insights
+- 📚 I share knowledge through — coding tutorials, AI breakdowns, and dev insights
 - ☕ I debug best with coffee and lo-fi beats
 - 🌍 Believer in building tech that makes a difference
 - 🎯 Currently exploring the intersection of **AI agents** and **microservices architecture**
@@ -82,9 +82,7 @@ I'm a **Full Stack AI Engineer** with **4 years of experience** building modern,
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-katari/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Manojkatari211)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Manojkatari211)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Manojkatari211)
+
 
 </div>
 
@@ -142,9 +140,7 @@ I'm always open to **collaborating on exciting projects**, discussing **AI innov
 Feel free to reach out through any of the platforms below:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Katari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-katari/)
-[![YouTube](https://img.shields.io/badge/YouTube-@Manojkatari211-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Manojkatari211)
-[![Medium](https://img.shields.io/badge/Medium-@Manojkatari211-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Manojkatari211)
-[![Instagram](https://img.shields.io/badge/Instagram-@Manojkatari211-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Manojkatari211)
+
 
 ---
 
