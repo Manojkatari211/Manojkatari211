@@ -94,15 +94,7 @@ I'm a **Full Stack AI Engineer** with **4 years of experience** building modern,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manojkatari211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Manoj's GitHub Stats" width="48%" />
-
-<img src="https://streak-stats.demolab.com/?user=Manojkatari211&theme=tokyonight&hide_border=true" alt="Manoj's Streak" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojkatari211&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="50%" />
+<img src="https://streak-stats.demolab.com/?user=Manojkatari211&theme=tokyonight&hide_border=true" alt="Manoj's GitHub Streak" width="60%" />
 
 </div>
 
@@ -114,11 +106,28 @@ I'm a **Full Stack AI Engineer** with **4 years of experience** building modern,
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Milestones
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Manojkatari211&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
+| 🎯 Milestone | ✅ Status |
+|---|---|
+| 💼 4 Years Full Stack Engineering | Achieved |
+| 🤖 Generative AI / LLMs Expert | Achieved |
+| ☁️ AWS Cloud Architect | Achieved |
+| 🚀 Microservices & Docker/K8s | Achieved |
+| 📱 Multi-Framework Frontend Dev | Achieved |
+| 🔗 GraphQL & REST API Design | Achieved |
+| 🛠️ CI/CD with Jenkins & GitHub Actions | Achieved |
+| 📊 PostgreSQL, MongoDB & MySQL | Achieved |
+
+</div>
+
+<div align="center">
+
+![Full Stack](https://img.shields.io/badge/🏆_Full_Stack_Engineer-4_Years-6C63FF?style=for-the-badge)
+![AI Expert](https://img.shields.io/badge/🤖_AI_Engineer-GenAI_&_LLMs-FF6B6B?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/☁️_Cloud_Native-AWS_&_K8s-00B4D8?style=for-the-badge)
 
 </div>
 
