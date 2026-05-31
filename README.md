@@ -125,9 +125,7 @@ I'm always open to **collaborating on exciting projects**, discussing **AI innov
 Feel free to reach out through any of the platforms below:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Katari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-katari/)
-[![YouTube](https://img.shields.io/badge/YouTube-@Manojkatari211-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Manojkatari211)
-[![Medium](https://img.shields.io/badge/Medium-@Manojkatari211-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Manojkatari211)
-[![Instagram](https://img.shields.io/badge/Instagram-@Manojkatari211-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Manojkatari211)
+
 
 ---
 
